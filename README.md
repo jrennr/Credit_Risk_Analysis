@@ -4,7 +4,7 @@
 
 ## Credit Risk Analysis
 
-Overview of the Loan Prediction Risk Analysis
+Overview of the Funding Prediction Risk Analysis
 The objective of this analysis is to evaluate the performance of various machine learning models in predicting credit risk. By using machine learning, we can identify potential loan defaulters.
 
 ## Results
